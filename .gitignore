@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EasySave1.0/.vs
+/EasySave1.0/bin/Debug/net8.0
+/EasySave1.0/obj
+/EasySave2.0/.vs
+/EasySave2.0/EasySave2.0/.vs/EasySave2.0
+/EasySave2.0/EasySave2.0/bin/Debug/net8.0-windows
+/EasySave2.0/EasySave2.0/obj
